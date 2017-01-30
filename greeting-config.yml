@@ -7,10 +7,9 @@ management:
   enabled: false # turn off securing the actuator endpoints
   
   logging: # <----New sections below
-
-level:
-  io:
-    pivotal: DEBUG
+   level:
+     io:
+       pivotal: DEBUG
 
 greeting:
   displayFortune: false
