@@ -1,7 +1,7 @@
 security:
-basic:
-enabled: false # turn off securing our application endpoints
+ basic:
+  enabled: false # turn off securing our application endpoints
 
 management:
-security:
-enabled: false # turn off securing the actuator endpoints
+ security:
+  enabled: false # turn off securing the actuator endpoints
